@@ -3194,7 +3194,7 @@ body {
     -webkit-transition-delay: 0.2s;
     -moz-transition-delay: 0.2s;
     transition-delay: 0.2s; }
-	
+
 .fancybox-inline-box .inline-cont{
 	background-color: #fff;
 }
@@ -3497,7 +3497,7 @@ body {
   height: 41px;
   display: block;
   position: absolute;
-  background-image: url(img/arrows.png);
+  /* background-image: url(img/arrows.png); */
   background-repeat: no-repeat; }
   .timeline-box-left .arrow:before,
   .timeline-box-right .arrow:before {
